@@ -53,6 +53,16 @@ Realizar a coordenação das pessoas da equipe, acompanhando e mantendo a qualid
 Responsável por supervisionar os processos de qualidade, garantindo a melhoria contínua, a entrega de soluções alinhadas às necessidades dos clientes e o cumprimento dos prazos e prioridades. Atua na gestão de pessoas, conduzindo recrutamento, onboarding, desenvolvimento, feedbacks e avaliações de desempenho, sempre promovendo um ambiente seguro, inclusivo e de alta performance. Define e executa o planejamento estratégico da área, estabelece indicadores e assegura a conexão dos objetivos da equipe com a estratégia organizacional. Estimula autonomia, protagonismo e gestão de mudanças, além de assegurar que os entregáveis estejam consistentes e atendam aos padrões de qualidade estabelecidos.
 `
     }
+    ,
+    {
+      title: 'Engineering Manager',
+      period: '2024,2025',
+      skills: ['Team management'],
+      contents: `
+Responsável por supervisionar os processos de qualidade, garantindo a melhoria contínua, a entrega de soluções alinhadas às necessidades dos clientes e o cumprimento dos prazos e prioridades. Atua na gestão de pessoas, conduzindo recrutamento, onboarding, desenvolvimento, feedbacks e avaliações de desempenho, sempre promovendo um ambiente seguro, inclusivo e de alta performance. Define e executa o planejamento estratégico da área, estabelece indicadores e assegura a conexão dos objetivos da equipe com a estratégia organizacional. Estimula autonomia, protagonismo e gestão de mudanças, além de assegurar que os entregáveis estejam consistentes e atendam aos padrões de qualidade estabelecidos.
+Scrum Master e engenheiro responsável pela a Tribo de Transformação Digital(DX) 
+`
+    }
   ],
   experience: [
     {
