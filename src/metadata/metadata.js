@@ -1,6 +1,6 @@
 module.exports = {
   name: 'Diemes Betim Siqueira',
-  title: 'Engenheiro da Computação, entusiasta de tecnologia',
+  title: 'Engenheiro da Computação, Entusiasta de tecnologia',
   facts: {
     'Residence': '<a href="https://www.google.com/maps/place/londrina+parana+brasil/data=!4m2!3m1!1s0x94eb435a57af586d:0x23ac11a5c614f971?sa=X&ved=1t:155783&ictx=111"><i class="fa fa-home fact-icon"></i>Londrina</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/diemes-siqueira-92106028/">
@@ -25,43 +25,48 @@ module.exports = {
   ],
   positions: [
     {
-      title: 'Hamlet',
-      period: 'Likely early 17th century',
-      skills: ['tragedy', 'philosophy', 'death'],
+      title: 'Analista de Homologação',
+      period: 'out de 2010 - abr de 2015',
+      skills: ['Automated Test Development', 'Software Development', 'Systems Analysis'],
       contents: `
-Prince Hamlet is visited by his father's ghost and ordered to avenge his father's murder by killing King Claudius, his uncle. After struggling with several questions, including whether what the ghost said is true and whether it is right for him to take revenge, Hamlet, along with almost all the other major characters, is killed.
+Desenvolvimento de Testes em equipamentos embarcados e software.
+ - Testes de Mesa
+ - Caixa Preta
+ - Caixa Branca
+ - Testes Funcionais 
+ - Testes Automatizados
 `
     },
     {
-      title: 'Twelfth Night',
-      period: '1600 – 1601',
-      skills: ['comedy', 'love'],
+      title: 'Coordenador de Projetos de Testes e Homologação',
+      period: '2015 – 2018',
+      skills: ['Team Coordination', 'Scrum Master'],
       contents: `
-Viola finds herself shipwrecked in Illyria and, assuming that her brother Sebastian has died in the wreck, disguises herself as a man to gain a position in Duke Orsino's court. Orsino sends Viola (whom he knows as Cesario) to deliver a message to his love, Olivia. Olivia, however, dislikes the Duke. She falls in love with Viola, who she thinks is a man. Eventually, Viola's brother Sebastian, who in fact was unharmed in the wreck, reappears. At a critical moment, Viola's true identity is revealed when members of the court notice the similarities between her and Sebastian. Olivia quickly falls in love with Sebastian, and Viola confesses her love for the Duke.
+Realizar a coordenação das pessoas da equipe, acompanhando e mantendo a qualidade e rendimentos das atividades. Planejar e organizar os processos, garantindo sempre as melhorias continuas da área de homologação. Controlar os prazos e alocação de recursos, garantir entregas com qualidade, atendendo sempre a necessidade e expectativa do cliente. 
 `
     },
     {
-      title: 'The Tragedy of Romeo and Juliet',
-      period: '1595–1596, with a possible early draft written in 1591',
-      skills: ['tragedy', 'death', 'love'],
+      title: 'Quality Assurance Test Manager',
+      period: '2018,2024',
+      skills: ['Team management'],
       contents: `
-In Verona, Italy, two families, the Montagues and the Capulets, are in the midst of a bloody feud. Romeo, a Montague, and Juliet, a Capulet, fall in love and struggle to maintain their relationship in the face of familial hatred. After Romeo kills Juliet's cousin Tybalt in a fit of passion, things fall apart. Both lovers eventually commit suicide within minutes of each other, and the feuding families make peace over their recent grief.
+Responsável por supervisionar os processos de qualidade, garantindo a melhoria contínua, a entrega de soluções alinhadas às necessidades dos clientes e o cumprimento dos prazos e prioridades. Atua na gestão de pessoas, conduzindo recrutamento, onboarding, desenvolvimento, feedbacks e avaliações de desempenho, sempre promovendo um ambiente seguro, inclusivo e de alta performance. Define e executa o planejamento estratégico da área, estabelece indicadores e assegura a conexão dos objetivos da equipe com a estratégia organizacional. Estimula autonomia, protagonismo e gestão de mudanças, além de assegurar que os entregáveis estejam consistentes e atendam aos padrões de qualidade estabelecidos.
 `
     }
   ],
   experience: [
     {
-      header: 'Performance',
-      skills: ['theater', 'play'],
+      header: 'Specialties',
+      skills: ['Tools', 'Design patterns'],
       contents: `
-Thousands of performances of my plays have been staged since the end of the 16th century. Many of my greatest plays were performed by the Lord Chamberlain's Men and King's Men acting companies at the [Globe](https://en.wikipedia.org/wiki/Globe_Theatre) and Blackfriars Theatres.
+Languages and Frameworks: Java, JUnit,testNG, Selenium, Appium, Backstopjs, PageObjects, Testcomplete(SmartBear), SQL.
 `
     },
     {
-      header: 'Poetry',
-      skills: ['poetry', 'erotic'],
+      header: 'Training',
+      skills: ['Teach'],
       contents: `
-In 1593 and 1594, when the theatres were closed because of plague, I published two narrative poems on sexual themes, Venus and Adonis and The Rape of Lucrece. I dedicated them to Henry Wriothesley, Earl of Southampton.
+I provided testing trainings for my company in order to educate my colleagues to become a great testers.
 `
     }
   ]
