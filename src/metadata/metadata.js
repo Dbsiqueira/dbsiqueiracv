@@ -1,10 +1,10 @@
 module.exports = {
   name: 'Diemes Betim Siqueira',
-  title: 'Poet, playwright and actor',
+  title: 'Engenheiro da Computação, entusiasta de tecnologia',
   facts: {
     'Residence': '<a href="https://www.google.com/maps/place/londrina+parana+brasil/data=!4m2!3m1!1s0x94eb435a57af586d:0x23ac11a5c614f971?sa=X&ved=1t:155783&ictx=111"><i class="fa fa-home fact-icon"></i>Londrina</a>',
     'Linkedin': `<a href="https://www.linkedin.com/in/diemes-siqueira-92106028/">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Diemes Betim Siqueira
+                  <i class="fa-brands fact-icon"></i>Diemes Betim Siqueira
                 </a>`,
     'Twitter': `<a href=""><i class="fa-brands fa-twitter fact-icon"></i>Diemes</a>`,
     'Email': '<a href="diemesdbs@gmail.com"><i class="fa fa-envelope fact-icon"></i>diemessdb@hotmail.com</a>'
