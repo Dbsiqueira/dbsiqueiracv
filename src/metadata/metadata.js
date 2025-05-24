@@ -1,13 +1,13 @@
 module.exports = {
-  name: 'William Shakespeare',
+  name: 'Diemes Betim Siqueira',
   title: 'Poet, playwright and actor',
   facts: {
-    'Residence': '<a href="https://www.google.com/maps/place/London,+UK/@51.5285582,-0.2416814,11z/data=!3m1!4b1!4m5!3m4!1s0x47d8a00baf21de75:0x52963a5addd52a99!8m2!3d51.5072178!4d-0.1275862"><i class="fa fa-home fact-icon"></i>London</a>',
-    'Wiki': `<a href="https://en.wikipedia.org/wiki/William_Shakespeare">
-                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>William_Shakespeare
+    'Residence': '<a href="https://www.google.com/maps/place/londrina+parana+brasil/data=!4m2!3m1!1s0x94eb435a57af586d:0x23ac11a5c614f971?sa=X&ved=1t:155783&ictx=111"><i class="fa fa-home fact-icon"></i>Londrina</a>',
+    'Linkedin': `<a href="https://www.linkedin.com/in/diemes-siqueira-92106028/">
+                  <i class="fa-brands fa-wikipedia-w fact-icon"></i>Diemes Betim Siqueira
                 </a>`,
-    'Twitter': `<a href="https://twitter.com/shakespeare"><i class="fa-brands fa-twitter fact-icon"></i>Shakespeare</a>`,
-    'Email': '<a href="mailto:wil64@yahoo.com"><i class="fa fa-envelope fact-icon"></i>wil64@yahoo.com</a>'
+    'Twitter': `<a href=""><i class="fa-brands fa-twitter fact-icon"></i>Diemes</a>`,
+    'Email': '<a href="diemesdbs@gmail.com"><i class="fa fa-envelope fact-icon"></i>diemessdb@hotmail.com</a>'
   },
   skills: [
     ['Comedy', 100],

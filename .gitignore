@@ -63,3 +63,6 @@ typings/
 # Website dest
 dist
 .DS_Store
+
+# Local Netlify folder
+.netlify
