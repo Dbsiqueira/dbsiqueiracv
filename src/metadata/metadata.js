@@ -10,13 +10,14 @@ module.exports = {
     'Email': '<a href="diemesdbs@gmail.com"><i class="fa fa-envelope fact-icon"></i>diemessdb@hotmail.com</a>'
   },
   skills: [
-    ['Communication', 100],
+   
     ['Delegation', 100],
     ['Problem-solving', 100],
     ['Emotional Intelligence', 100],
     ['Conflict Resolution', 100],
     ['Organization', 100],
     ['Time Management', 100],
+     ['Communication', 100],
     ['Employee Development', 100],
     ['Creativity', 100],
     ['Leadership', 100],
@@ -61,7 +62,7 @@ Responsável por supervisionar os processos de qualidade, garantindo a melhoria 
       period: '2024,2025',
       skills: ['Team management'],
       contents: `
-Responsável por supervisionar os processos de qualidade, garantindo a melhoria contínua, a entrega de soluções alinhadas às necessidades dos clientes e o cumprimento dos prazos e prioridades. Atua na gestão de pessoas, conduzindo recrutamento, onboarding, desenvolvimento, feedbacks e avaliações de desempenho, sempre promovendo um ambiente seguro, inclusivo e de alta performance. Define e executa o planejamento estratégico da área, estabelece indicadores e assegura a conexão dos objetivos da equipe com a estratégia organizacional. Estimula autonomia, protagonismo e gestão de mudanças, além de assegurar que os entregáveis estejam consistentes e atendam aos padrões de qualidade estabelecidos.
+Atuando com a gestão de pessoas, conduzindo recrutamento, onboarding, desenvolvimento, feedbacks e avaliações de desempenho, sempre promovendo um ambiente seguro, inclusivo e de alta performance. Define e executa o planejamento estratégico da área, estabelece indicadores e assegura a conexão dos objetivos da equipe com a estratégia organizacional. Estimula autonomia, protagonismo e gestão de mudanças, além de assegurar que os entregáveis estejam consistentes e atendam aos padrões de qualidade estabelecidos.
 Scrum Master e engenheiro responsável pela a Tribo de Transformação Digital(DX) 
 `
     }
